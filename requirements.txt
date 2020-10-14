@@ -1,6 +1,5 @@
 jupyterlab
 arviz
-pystan
 pymc3
 rise
 jupyter_contrib_nbextensions

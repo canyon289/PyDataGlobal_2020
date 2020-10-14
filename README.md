@@ -1,7 +1,7 @@
-# StanCon 2020 ArviZ presentation
+# PyData Global
 
-This folder contains the presentation about ArviZ and `InferenceData` for
-StanCon 2020. The presentation is created from a Jupyter notebook by using
+This folder contains the presentation about decision making with Bayesian methods
+for PyData Global 2020. The presentation is created from a Jupyter notebook by using
 [RISE](https://rise.readthedocs.io/en/stable/) and is then served with
 [Binder](https://mybinder.org/). The presentation is available in the
 following languages:
